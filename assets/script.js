@@ -15,7 +15,7 @@ let ccCount = document.getElementById('qty-cc');
 let ccCountTotals = document.getElementById('qty-total');
 
 let incrementBtnThree = document.getElementById('add-sugar');
-let decrementBtnThree = document.getElementById('minus-suagr');
+let decrementBtnThree = document.getElementById('minus-sugar');
 let sugarCount = document.getElementById('qty-sugar');
 let sugarCountTotals = document.getElementById('qty-total');
 
